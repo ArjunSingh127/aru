@@ -13,11 +13,8 @@ public class DemoApplication {
 		System.out.println("Hello from arjun side to sarthak");
 		System.out.println("hi arjun");
 		System.out.println("hey bhai");
-<<<<<<< HEAD
 		System.out.println("Build pipeline");
-=======
 		System.out.println("hello mohit ");
->>>>>>> 6fa23a90a7f639f3f93594ed733a94b7800712ed
 	}
 
 }
